@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 body {
-    background-color: #fff;
-    font-family: sans-serif;
-    margin: auto;
-    max-width: 70ch;
-    color: #000;
-  }
+  background: linear-gradient(135deg, #6a11cb, #2575fc); /* Vibrant purple to blue gradient */
+  font-family: 'Press Start 2P', sans-serif;
+  margin: auto;
+  max-width: 70ch;
+  color: #f0f8ff; /* Softer, more readable white */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Slightly stronger shadow for better contrast */
+  padding: 2rem;
+  border: 3px solid #f0f8ff; /* Matches text color for consistency */
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6); /* Enhanced shadow for depth */
+}
