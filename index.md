@@ -1,5 +1,7 @@
 ---
-title
+title: Home
 ---
 
-# tonic-starter
+# tonic-theme
+
+*tonic-theme* somethign something
